@@ -18,7 +18,7 @@ grpcio==1.24.1
 h5py==2.10.0
 ipykernel==4.10.1
 ipyparallel==6.2.4
-ipython==5.8.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 jupyter-client==5.3.4
 jupyter-core==4.6.1
