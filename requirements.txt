@@ -30,7 +30,7 @@ matlab-kernel==0.16.7
 matplotlib==2.2.4
 metakernel==0.24.3
 mock==3.0.5
-numpy==1.16.5
+numpy==1.22.0
 opt-einsum==2.3.2
 pandas==0.24.2
 pathlib2==2.3.5
