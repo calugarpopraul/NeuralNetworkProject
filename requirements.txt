@@ -38,7 +38,7 @@ pexpect==4.7.0
 pickleshare==0.7.5
 portalocker==1.5.2
 prompt-toolkit==1.0.18
-protobuf==3.10.0
+protobuf==3.18.3
 ptyprocess==0.6.0
 Pygments==2.5.2
 pyparsing==2.4.2
